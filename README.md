@@ -2,6 +2,12 @@
 
 A machine learning-powered web application that predicts health insurance premiums based on personal demographics, health indicators, and insurance plan details.
 
+## 🌐 Live Demo
+
+**Try the app now**: [https://predxhealth.streamlit.app/](https://predxhealth.streamlit.app/)
+
+The application is deployed and ready to use! Simply enter your details to get an instant premium prediction.
+
 ## 🌟 Features
 
 - **Age-Segmented Models**: Different models for young adults (≤25) and adults (>25)
